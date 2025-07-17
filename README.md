@@ -41,3 +41,18 @@ To provide business insights into the coffee shop’s sales data, identify top-p
 - Detailed breakdown of units sold by product type
 - Gourmet brewed coffee leads with 25,873 units sold
 - Total units sold across all products: 214,470
+
+### Recommendations
+Based on the dashboard insights, the following actions are recommended:
+
+ 1. Maximize Morning Sales
+Focus on promotions (e.g., loyalty rewards, bundles) during peak morning hours to boost traffic and revenue.
+
+ 2. Expand Coffee Offerings
+Coffee is the top-selling category — introduce new flavors or seasonal brews and bundle with bakery items to drive higher spend.
+
+ 3. Leverage Top Locations
+Hell’s Kitchen and Astoria perform best. Use them to pilot promotions and new product launches.
+
+ 4. Boost Evening Sales
+Implement evening-focused offers like happy hour deals or student discounts to increase low revenue during this period.
